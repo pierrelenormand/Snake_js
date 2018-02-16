@@ -1,5 +1,5 @@
 /**
- * @jsx React.DOM
+ * React.DOM
  */
 var BODY = 1, FOOD = 2;
 var KEYS = {left: 37, up: 38, right: 39, down: 40};
